@@ -1,5 +1,11 @@
-/* Add screen styles below */
+/*add screen styles below */
 
 body {
-    background: #aaa;
+    background: #fff;
+    font-family: Helvetica, sans-serif;
+    border-top: 15px solid #292929;
+}
+
+img {
+    width: 100%;
 }
