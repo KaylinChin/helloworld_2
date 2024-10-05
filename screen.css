@@ -22,7 +22,7 @@ main {
 
 .details {
     display: flex;
-    gap: 40px;
+    gap: 25px;
 }
 
 .details section {
@@ -31,7 +31,7 @@ main {
     background: #E9EAEC;
     padding: 30px; 
     border-radius: 20px;
-    margin-top: 25px;
+    margin-top: 30px;
 
 }
 
