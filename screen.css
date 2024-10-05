@@ -22,7 +22,7 @@ main {
 
 .details {
     display: flex;
-    gap: 25px;
+    gap: 40px;
 }
 
 .details section {
