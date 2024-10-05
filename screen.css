@@ -9,7 +9,7 @@ body {
 
 main {
     margin: 0 auto;
-    width: 700px;
+    width: 800px;
 }
 
 .masthead {
@@ -22,7 +22,7 @@ main {
 
 .details {
     display: flex;
-    gap: 25px;
+    gap: 30px;
 }
 
 .details section {
