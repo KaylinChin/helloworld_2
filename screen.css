@@ -15,7 +15,7 @@ main {
 .masthead {
     background-image: url('images/mac.jpg');
     background-size: cover;
-    background-position: top;
+    background-position: bottom;
     height: 250px;
     border-radius: 20px;
 }
@@ -36,7 +36,7 @@ main {
 }
 
 img {
-    width: 100%;
+    width: 75%;
 }
 
 h2 {
