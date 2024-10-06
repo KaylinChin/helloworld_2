@@ -33,11 +33,33 @@ main {
     padding: 25px; 
     border-radius: 20px;
     margin-top: 25px;
+}
+.details section.with-code {
+    padding: 0;
+}
 
+div.code-copy {
+    padding: 25px;
+}
+
+div.code-html {
+    padding: 25px;
+    background: #424242;
+    color: #FFFFFF;
 }
 
 img {
     width: 100%;
+}
+
+h1 {
+    background-image: url('images/Logo.png');
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: center left;
+    font-size: 3em;
+    padding-left: 55px;
+    margin: 100px 0 25px 0
 }
 
 h2 {
