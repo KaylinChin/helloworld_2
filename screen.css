@@ -13,10 +13,8 @@ main {
     width: 800px;
 }
 
-.masthead {
-    background-image: url('images/mac.jpg');
-    background-size: cover;
-    background-position: bottom;    
+.masthead {  
+    background: no-repeat bottom / cover url('images/mac.jpg');
     height: 250px;
     border-radius: 20px;
 }
